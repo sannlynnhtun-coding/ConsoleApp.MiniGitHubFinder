@@ -1,4 +1,4 @@
-## MiniGitHubFinder
+# Mini GitHub Finder
 
 ### Overview
 MiniGitHubFinder is a C# console application designed to search for GitHub repositories based on user input. The application interacts with the GitHub API to fetch repository information, helping users find relevant projects quickly.
